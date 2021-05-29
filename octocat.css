@@ -1,0 +1,152 @@
+/* bg */
+
+
+position: relative;
+width: 1080px;
+height: 1080px;
+
+background: #E7EEF8;
+
+/* face - black bg */
+
+
+position: absolute;
+width: 583.55px;
+height: 424.76px;
+left: 260.85px;
+top: 138.29px;
+
+background: #000000;
+
+/* left ear */
+
+
+position: absolute;
+width: 133.51px;
+height: 201.14px;
+left: 288.23px;
+top: 78.2px;
+
+background: #000000;
+transform: matrix(0.94, -0.36, 0.34, 0.94, 0, 0);
+
+/* right ear */
+
+
+position: absolute;
+width: 133.67px;
+height: 200.9px;
+left: 689.17px;
+top: 31px;
+
+background: #000000;
+transform: matrix(0.91, 0.43, -0.42, 0.9, 0, 0);
+
+/* face */
+
+
+position: absolute;
+width: 445.23px;
+height: 251.25px;
+left: 331.45px;
+top: 286.81px;
+
+background: #F4CAB1;
+
+/* left eye */
+
+
+position: absolute;
+width: 77px;
+height: 112px;
+left: 422px;
+top: 344px;
+
+background: #FFFFFF;
+position: absolute;
+width: 57px;
+height: 93px;
+left: 434px;
+top: 353px;
+
+background: #AC5C51;
+
+/* right eye */
+
+
+position: absolute;
+width: 79px;
+height: 112px;
+left: 629px;
+top: 344px;
+
+background: #FFFFFF;
+
+position: absolute;
+width: 57px;
+height: 93px;
+left: 641px;
+top: 353px;
+
+background: #AC5C51;
+
+/* Nose */
+
+
+position: absolute;
+width: 18px;
+height: 19px;
+left: 556px;
+top: 456px;
+
+background: #AC5C51;
+
+/* Nose hair */
+
+
+position: absolute;
+width: 612px;
+height: 29.72px;
+left: 1186.52px;
+top: 416.13px;
+
+background: #000000;
+transform: matrix(-1, -0.02, -0.02, 1, 0, 0);
+
+position: absolute;
+width: 612px;
+height: 29.72px;
+left: 1185.79px;
+top: 487.09px;
+
+background: #000000;
+transform: matrix(-0.99, -0.14, -0.14, 0.99, 0, 0);
+
+position: absolute;
+width: 612px;
+height: 29.72px;
+left: -42.06px;
+top: 429.16px;
+
+background: #000000;
+transform: rotate(-1.32deg);
+
+position: absolute;
+width: 612px;
+height: 29.72px;
+left: -41.33px;
+top: 500.12px;
+
+background: #000000;
+transform: rotate(-7.82deg);
+
+/* Mouth */
+
+
+position: absolute;
+width: 61px;
+height: 59px;
+left: 536px;
+top: 464px;
+
+background: #AC5C51;
